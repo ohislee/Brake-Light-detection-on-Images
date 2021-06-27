@@ -10,3 +10,4 @@ The HSV_min and HSV_max that works for the brake light are gotten through a diff
 Masked HSV image is converted to gray image.
 Contours for the gray image is extracted and then converted to a rectangular bounding box.
 Bounding box with the maximum area is retained as the best detector for the brake light.
+![Brake light detected images-1](https://user-images.githubusercontent.com/71301809/123559860-8fa5b500-d796-11eb-9165-2727323af036.jpg)
